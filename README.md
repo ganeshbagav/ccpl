@@ -1,6 +1,5 @@
 # Core2Web Programming Library 🚀
-
-![Core2Web Logo](https://example.com/core2web_logo.png)
+![Core2Web Logo](IMAGES/c2w.png)
 
 Welcome to the Core2Web Programming Library, a C language project that empowers you to execute, print output, and download C language code files with a user-friendly GUI using Gtk and Glade. This project is designed to make programming in C more enjoyable and accessible for everyone, whether you are a beginner or an experienced developer.
 
@@ -29,6 +28,12 @@ Operations on strings are made simple in this section. Whether you want to find 
 
 Get creative with this section, where you can print various patterns using asterisks and other symbols. Unleash your artistic side and explore different patterns.
 
+```
+* * *
+* * *
+* * *
+```
+
 ### Numbers 🔢
 
 Working with numbers becomes a breeze with the Numbers section. You can determine if a number is palindromic, even or odd, or an Armstrong number effortlessly.
@@ -37,20 +42,28 @@ Working with numbers becomes a breeze with the Numbers section. You can determin
 
 In this exciting section, we bring data structures to life with a user-friendly GUI. You can experiment with linked lists, stacks, and queues, all within the comfort of the application.
 
+## Setup environment to compile and run the C program withe GTK and Glade 
+
+Follow the steps listed in 'Gtk and Glade setup.pdf' 
+
 ## How to Use 📖
 
 1. Clone the repository using the following command:
    ```
-   git clone https://github.com/ganeshbagav7/core2web-programming-library.git
+   git clone https://github.com/ganeshbagav7/ccpl
    ```
 
-2. Compile the C code using a C compiler (e.g., gcc) and run the executable:
+2. Compile the C code using a C compiler (e.g., gcc) and run the executable , to make it more easy we already have a executable bash script in EXECUTABLE.txt, just run the script using following command and run the 'Core2Web':
    ```
-   gcc -o core2web core2web.c
-   ./core2web
+   bash EXECUTABLE.txt
+   ./Core2Web
    ```
 
 3. The GUI interface will open up, presenting you with the sections and functionalities of the Core2Web Programming Library. Simply click on any section to explore the concepts or execute the desired C code.
+
+## Resources
+
+For additional learning and fun, check out our YouTube playlist: [Core2Web Programming Library Playlist](https://www.youtube.com/playlist?list=PLmMgHNtOIstZEvqYJncYUx52n8_OV0uWy)
 
 ## Contributions 🤝
 
