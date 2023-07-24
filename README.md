@@ -3,7 +3,7 @@
 
 Welcome to the Core2Web Programming Library, a C language project that empowers you to execute, print output, and download C language code files with a user-friendly GUI using Gtk and Glade. This project is designed to make programming in C more enjoyable and accessible for everyone, whether you are a beginner or an experienced developer.
 
-## Core2Web Programming Library Demo Video
+## Demonstration Video
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZrevNMaIaW4/0.jpg)](https://www.youtube.com/watch?v=ZrevNMaIaW4)
 ## Technologies Used 🛠️
@@ -84,4 +84,4 @@ This project represents a remarkable achievement, stemming from the collective e
 
 The concerted efforts of this diverse team have allowed for a harmonious convergence of ideas, expertise, and skills, elevating the project to new heights of innovation and excellence. The names of these accomplished developers can be found in the distinguished "OUR TEAM" section of the project, serving as a testament to their individual contributions and the power of effective teamwork in achieving ambitious goals.
 
-Let's make programming in C enjoyable and fun! Happy coding! 😄🚀🎉
+Let's make programming in C enjoyable! Happy coding! 😄🚀🎉
