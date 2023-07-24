@@ -48,9 +48,10 @@ Follow the steps listed in 'Gtk and Glade setup.pdf'
 
 ## How to Use 📖
 
-1. Clone the repository using the following command:
+1. Clone the repository using the following command and navigate to the ccpl folder:
    ```
    git clone https://github.com/ganeshbagav7/ccpl
+   cd ccpl
    ```
 
 2. Compile the C code using a C compiler (e.g., gcc) and run the executable, to make it easier we already have an executable bash script in EXECUTABLE.txt, just run the script using the following command and run the 'Core2Web':
